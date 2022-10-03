@@ -4,7 +4,7 @@ A new Flutter project.
 
 <div align='center'>
 
-<img src='https://github.com/shervinbdndev/AuthUIDesktopn/blob/master/images/signin.png'>
+<img src='https://github.com/shervinbdndev/AuthUIDesktop/blob/master/images/signin.png'>
 <br><br>
 <img src='https://github.com/shervinbdndev/AuthUIDesktop/blob/master/images/signup.png'>
 
